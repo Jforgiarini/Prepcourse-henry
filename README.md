@@ -1,2 +1,1 @@
-# Prepcourse-henry
-repositorio de prueba del curso
+este es una prueba de como crear un repositorio y clonarlo
